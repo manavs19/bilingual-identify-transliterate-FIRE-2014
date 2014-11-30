@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/antlr-runtime-3.5.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/asm-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/asm-commons-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/httpclient-4.2.6.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/httpcore-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/icu4j-49.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/javax.servlet-3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jetty-continuation-8.1.10.v20130312.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jetty-http-8.1.10.v20130312.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jetty-io-8.1.10.v20130312.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jetty-server-8.1.10.v20130312.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jetty-servlet-8.1.10.v20130312.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/jetty-util-8.1.10.v20130312.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/junit4-ant-2.0.13.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-common-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-icu-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-kuromoji-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-morfologik-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-phonetic-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-smartcn-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-stempel-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-analyzers-uima-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-benchmark-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-classification-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-codecs-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-core-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-demo-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-expressions-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-facet-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-grouping-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-highlighter-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-join-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-memory-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-misc-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-queries-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-queryparser-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-replicator-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-sandbox-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-spatial-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-suggest-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/lucene-test-framework-4.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/morfologik-fsa-1.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/morfologik-polish-1.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/morfologik-stemming-1.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/randomizedtesting-runner-2.0.13.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/spatial4j-0.3.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/Tagger-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/uimaj-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/WhitespaceTokenizer-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/mallet.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspace/Retrieval/lib/mallet-deps.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
